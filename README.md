@@ -21,7 +21,6 @@ protected/
 
 ## ССылки
 
-* [Demo](http://kosenka.ru/#tab1)
 * [Extension project page](https://github.com/kosenka/DumperModule)
 * [Russian community discussion thread](http://yiiframework.ru/forum/)
 
